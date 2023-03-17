@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "557550374095",
+    "project_id": "fir-amv-cb104",
+    "storage_bucket": "fir-amv-cb104.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:557550374095:android:d03525af5fa4b5a75e3bba",
+        "android_client_info": {
+          "package_name": "com.example.firebase_google_auth"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "557550374095-3t2asgmhf1dnd4ft17im8pe0veus5977.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA55Zd_O32kxHEjJk1qqyuDLucwPkM2fJM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "557550374095-3t2asgmhf1dnd4ft17im8pe0veus5977.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
